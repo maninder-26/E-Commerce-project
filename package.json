@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@kinde-oss/kinde-auth-react": "^5.12.1",
+    "@tailwindcss/vite": "^4.3.3",
     "axios": "^1.18.1",
     "lucide-react": "^1.25.0",
     "react": "^19.2.7",
