@@ -1,4 +1,4 @@
-import p1_img from "./p1.png";
+import P1_img from "./P1.png";
 import p2_img from './p2.png'
 import p3_img from './p3.avif'
 import p4_img from './p4.png'
