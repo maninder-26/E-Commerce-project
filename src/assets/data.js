@@ -8,7 +8,7 @@ let data_product= [
             id: 1,
             name: "Kurti",
             category: "women",
-            image: p1_img,
+            image: P1_img,
             new_price: 50.0,
             old_price: 80.5
         },
